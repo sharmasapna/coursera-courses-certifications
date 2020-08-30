@@ -7,8 +7,8 @@ This repository contains certificates related to online courses I have done:
 ##  Neural Networks and Deep Learning (20-06-2020)
 https://coursera.org/share/6d1a9d38d68124c099788eede2a56100
 ### Skill Gained 
-####  Artificial Neural Network
-####  Backpropagation
+#####  Artificial Neural Network
+#####  Backpropagation
 ####  Python Programming
 ####  Deep Learning
 This is a must do course for any one interested in Neural Networks. It will give a great understanding of the role of different layers of NN.   
